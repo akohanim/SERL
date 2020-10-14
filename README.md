@@ -2,7 +2,8 @@ Ubuntu 18.04 + ROS Melodic + Gazebo 9
 
 Clean repo with no custom packages installed from The Construcistm's ROS Development Studio
 
-Usefull links: 
+
+Useful links: 
 
 Brower based development and simulation enviroment: https://rds.theconstructsim.com/r
 
